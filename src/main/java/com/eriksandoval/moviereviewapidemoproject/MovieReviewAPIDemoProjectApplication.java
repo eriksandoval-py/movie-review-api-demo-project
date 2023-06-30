@@ -1,4 +1,4 @@
-package com.eriksandoval.springbootdemoproject;
+package com.eriksandoval.moviereviewapidemoproject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
