@@ -16,5 +16,10 @@ public class Review {
 
     private ObjectId _id;
     private String body;
+
+    public Review(String body) {
+        this.body = body;
+    }
+    
     
 }
