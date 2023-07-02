@@ -13,9 +13,6 @@ public class MovieReviewAPIDemoProjectApplication {
 		SpringApplication.run(MovieReviewAPIDemoProjectApplication.class, args);
 	}
 
-	@GetMapping("/")
-	public String apiRoot() {
-		return "Hello World!";
-	}
+	
 
 }
